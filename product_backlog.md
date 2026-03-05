@@ -7,7 +7,7 @@
 - **Instructors:** See which sections they’re teaching and who’s enrolled.
 - **Registrar/Admin (authorized users):** Support registration, look up enrollments when issues come up, and make sure rules are followed.
 
----
+The following product backlog represents the initial set of functional requirements for the VCU Summer 2026 Course Registration System. Each user story follows Scrum best practices and includes a priority based on stakeholder value and system dependencies.
 
 ## Product Backlog User Stories (Initial)
 
@@ -27,12 +27,12 @@
 **Priority justification:** This is the main purpose of the system and provides the most value because it completes registration.
 
 ### User Story 4
-**As the system, I want to prevent a student from registering for two sections of the same course so that the registration rules are enforced.**  
+**As a registrar administrator, I want the system to prevent students from registering for two sections of the same course so that registration rules are enforced.**  
 **Priority:** Medium  
 **Priority justification:** This keeps data accurate and prevents scheduling problems, but it comes after the basic enroll feature is working.
 
 ### User Story 5
-**As the system, I want to stop enrollment once a section reaches its seat limit so that sections do not exceed their maximum capacity.**  
+**As a registrar administrator, I want the system to stop enrollment once a section reaches its seat limit so that sections do not exceed their maximum capacity.**  
 **Priority:** Medium  
 **Priority justification:** Seat limits are important for a realistic registration process and reduce manual fixes, but it depends on enrollment being in place.
 
@@ -68,8 +68,9 @@
 
 ## Team contributions statement (summary)
 - **Leonard:** Organized the backlog into a clean final format, checked the user story wording (As a/I want/so that), and made sure priorities followed a bell curve.
-- **Yusuf:** Focused mainly on the student experience stories (search, view section details, view enrolled schedule) and helped tighten up wording so each story stayed clear and testable.
+- **Youssef:** Focused mainly on the student experience stories (search, view section details, view enrolled schedule) and helped tighten up wording so each story stayed clear and testable.
 - **Javad:** Focused on the system rule stories (no duplicate course enrollment, seat limit enforcement) and helped justify priorities based on dependencies and correctness.
 - **Saleh:** Focused on instructor/admin stories (teaching schedule, roster, student lookup) and helped make the final list consistent and easy to read.
 
 ## All team members worked together to create and review the initial product backlog. We split up the work so each person focused on a different part of the system, then we compared notes and finalized priorities as a group.
+
