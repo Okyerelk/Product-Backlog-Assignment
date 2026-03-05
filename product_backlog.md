@@ -52,7 +52,7 @@ The following product backlog represents the initial set of functional requireme
 **Priority justification:** Rosters are important for instructors, and this feature depends on enrollment data already existing.
 
 ### User Story 9
-**As an authorized user, I want to look up a student’s enrolled sections so that I can support advising and troubleshoot registration problems.**  
+As an authorized user, I want to look up a student’s enrolled sections to support advising and troubleshoot registration issues.**  
 **Priority:** Medium  
 **Priority justification:** This supports staff and advising, but it depends on enrollment information being stored in the system.
 
@@ -73,4 +73,5 @@ The following product backlog represents the initial set of functional requireme
 - **Saleh:** Focused on instructor/admin stories (teaching schedule, roster, student lookup) and helped make the final list consistent and easy to read.
 
 ## All team members worked together to create and review the initial product backlog. We split up the work so each person focused on a different part of the system, then we compared notes and finalized priorities as a group.
+
 
