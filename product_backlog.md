@@ -75,3 +75,8 @@ As an authorized user, I want to look up a student’s enrolled sections to supp
 ## All team members worked together to create and review the initial product backlog. We split up the work so each person focused on a different part of the system, then we compared notes and finalized priorities as a group.
 
 
+---
+
+## Screenshot Proof (GitHub Backlog Posted)
+
+![Repository screenshot](repository%20screenshot.png)
